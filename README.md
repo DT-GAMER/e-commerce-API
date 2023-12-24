@@ -2,7 +2,7 @@
 
 This project encompasses a comprehensive E-commerce API developed using Express and MongoDB. It encapsulates all essential functionalities crucial for a robust E-commerce platform, providing seamless user experience and efficient management of various aspects of an online store.
 
-# Key Functionalities
+### Key Functionalities
 
 User Authentication:
 
@@ -35,12 +35,12 @@ Order Processing:
 
 ## Setup
  
-```da
+```
     $ git clone https://github.com/DT-GAMER/e-commerce-API.git
     $ cd e-commerce-API
     $ npm install
 ```
-  - update the dabase.confi.js environment variables
+
   ### Instal nodemon
   ```
   npm install -g nodemon
