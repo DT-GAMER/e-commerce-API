@@ -36,15 +36,18 @@ Order Processing:
 ## Setup
  
 ```da
-    $ git clone https://github.com/dinushchathurya/nodejs-ecommerce-api.git
-    $ cd nodejs-ecommerce-api
+    $ git clone https://github.com/DT-GAMER/e-commerce-API.git
+    $ cd e-commerce-API
     $ npm install
 ```
   - update the dabase.confi.js environment variables
-
+  ### Instal nodemon
+  ```
+  npm install -g nodemon
+  ```
   ### Run The Service
   ```
-  $ nodemon app.js
+  $ nodemon server.js
   ```
 ## API Endpoints
 
